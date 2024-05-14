@@ -1,4 +1,4 @@
-plugin_name: go.d.plugin
+plugin_name: boruto.conf
 modules:
   - meta:
       id: collector-go.d.plugin-wireguard
